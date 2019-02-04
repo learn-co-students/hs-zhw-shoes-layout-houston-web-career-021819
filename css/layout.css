@@ -25,3 +25,22 @@
 /* Positioning Classes */
 
 
+.featured-brands {
+  float: left;
+  width: 66.1%;
+}
+
+.shoe-archive {
+  float: right;
+  width: 32.2%;
+
+}
+
+.lady-skaters-heels {
+  clear: both;
+  column-count: 3;
+}
+
+.info {
+  column-count: 3;
+}
